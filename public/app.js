@@ -1,2 +1,2 @@
-console.log("application started");
+var app = angular.module("app", []);
 //# sourceMappingURL=app.js.map
